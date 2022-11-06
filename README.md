@@ -4,12 +4,13 @@ There are two projects in one. The first one it is about to create a OLAP schema
 wich are nedeed to achive it. The secod one consists on a dashboard using this OLAP schema.
 The goal of this project is monitorizing the acces to server from one company. 
 
-To acces to files for OLAP DESIGN go to:
+Files acces to OLAP DESIGN:
 
 - dwh-olap_cuadro de mandos.twb (final result)
 - OLAP design with Tableau.pdf (explanation)
 
-To acces to dashboard with tableau go to:
+Files acces to Tableau DASHBOARD:
+
 - TABLEAU DASHBOARD_mmonitorserver.png (final result)
 - Monitor the server access with TABLEAU DASHBOARD.pdf (explanations)
 

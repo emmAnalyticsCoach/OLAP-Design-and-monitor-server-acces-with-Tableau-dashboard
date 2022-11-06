@@ -10,9 +10,6 @@ Files acces to Tableau DASHBOARD:
 - TABLEAU DASHBOARD_mmonitorserver.png (final result)
 https://github.com/emmAnalyticsCoach/OLAP-Design-and-monitor-server-acces-with-Tableau-dashboard/blob/main/TABLEAU%20DASHBOARD_mmonitorserver.png
 
-- Monitor the server access with TABLEAU DASHBOARD.pdf (explanations)
-https://github.com/emmAnalyticsCoach/OLAP-Design-and-monitor-server-acces-with-Tableau-dashboard/blob/main/Monitor%20the%20server%20acces%20Tableau.pdf
-
 Files acces to OLAP DESIGN:
 
 - dwh-olap_cuadro de mandos.twb (final result)
